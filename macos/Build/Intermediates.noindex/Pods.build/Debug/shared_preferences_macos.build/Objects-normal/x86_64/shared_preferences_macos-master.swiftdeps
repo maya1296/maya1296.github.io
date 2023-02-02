@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.29.102 clang-1300.0.28.1)"
+options: "30773877af673ad64ab80f2e2d11ee9a24eeee8f268b0aacf6b33343a52cc033"
+build_start_time: [1675071675, 579731941]
+build_end_time: [1675071686, 114002943]
+inputs:
+  "/Users/maya/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.5/macos/Classes/SharedPreferencesPlugin.swift": [1673289648, 446447372]
+  "/Users/maya/.pub-cache/hosted/pub.dartlang.org/shared_preferences_macos-2.0.5/macos/Classes/messages.g.swift": [1673289648, 433610916]

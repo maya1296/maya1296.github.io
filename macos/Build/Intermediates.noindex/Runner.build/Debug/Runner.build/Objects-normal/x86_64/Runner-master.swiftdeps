@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.5 (swiftlang-1300.0.29.102 clang-1300.0.28.1)"
+options: "37e89e850442ee1a9fbf509cab552733e128f0adba200dcbc0eebce6876aeda7"
+build_start_time: [1675078656, 895437002]
+build_end_time: [1675078664, 109029054]
+inputs:
+  "/Users/maya/Desktop/atineti_maya/atineti/mandal/macos/Flutter/GeneratedPluginRegistrant.swift": [1675078648, 129445552]
+  "/Users/maya/Desktop/atineti_maya/atineti/mandal/macos/Runner/AppDelegate.swift": [1674076987, 951992034]
+  "/Users/maya/Desktop/atineti_maya/atineti/mandal/macos/Runner/MainFlutterWindow.swift": [1674076987, 955189704]
